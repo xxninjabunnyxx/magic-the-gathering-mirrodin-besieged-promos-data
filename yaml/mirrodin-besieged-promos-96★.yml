@@ -1,0 +1,117 @@
+---
+object: card
+id: 9e293b2d-5eae-43c3-bb1f-4c0ed2b0bd21
+oracle_id: cafacba9-195c-44ea-ba80-3e489274759c
+multiverse_ids: []
+tcgplayer_id: 48141
+cardmarket_id: 245269
+name: Glissa, the Traitor
+lang: en
+released_at: '2011-02-03'
+uri: https://api.scryfall.com/cards/9e293b2d-5eae-43c3-bb1f-4c0ed2b0bd21
+scryfall_uri: https://scryfall.com/card/pmbs/96%E2%98%85/glissa-the-traitor?utm_source=api
+layout: normal
+highres_image: true
+image_status: highres_scan
+image_uris:
+  small: https://cards.scryfall.io/small/front/9/e/9e293b2d-5eae-43c3-bb1f-4c0ed2b0bd21.jpg?1605370737
+  normal: https://cards.scryfall.io/normal/front/9/e/9e293b2d-5eae-43c3-bb1f-4c0ed2b0bd21.jpg?1605370737
+  large: https://cards.scryfall.io/large/front/9/e/9e293b2d-5eae-43c3-bb1f-4c0ed2b0bd21.jpg?1605370737
+  png: https://cards.scryfall.io/png/front/9/e/9e293b2d-5eae-43c3-bb1f-4c0ed2b0bd21.png?1605370737
+  art_crop: https://cards.scryfall.io/art_crop/front/9/e/9e293b2d-5eae-43c3-bb1f-4c0ed2b0bd21.jpg?1605370737
+  border_crop: https://cards.scryfall.io/border_crop/front/9/e/9e293b2d-5eae-43c3-bb1f-4c0ed2b0bd21.jpg?1605370737
+mana_cost: "{B}{G}{G}"
+cmc: 3.0
+type_line: Legendary Creature — Phyrexian Zombie Elf
+oracle_text: |-
+  First strike, deathtouch
+  Whenever a creature an opponent controls dies, you may return target artifact card from your graveyard to your hand.
+power: '3'
+toughness: '3'
+colors:
+- B
+- G
+color_identity:
+- B
+- G
+keywords:
+- First strike
+- Deathtouch
+legalities:
+  standard: not_legal
+  future: not_legal
+  historic: not_legal
+  gladiator: not_legal
+  pioneer: not_legal
+  explorer: not_legal
+  modern: legal
+  legacy: legal
+  pauper: not_legal
+  vintage: legal
+  penny: legal
+  commander: legal
+  oathbreaker: legal
+  brawl: not_legal
+  historicbrawl: not_legal
+  alchemy: not_legal
+  paupercommander: not_legal
+  duel: legal
+  oldschool: not_legal
+  premodern: not_legal
+  predh: legal
+games:
+- paper
+reserved: false
+foil: true
+nonfoil: false
+finishes:
+- foil
+oversized: false
+promo: true
+reprint: true
+variation: false
+set_id: 8a59d98a-4e13-4943-b06c-b35868e954ba
+set: pmbs
+set_name: Mirrodin Besieged Promos
+set_type: promo
+set_uri: https://api.scryfall.com/sets/8a59d98a-4e13-4943-b06c-b35868e954ba
+set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3Apmbs&unique=prints
+scryfall_set_uri: https://scryfall.com/sets/pmbs?utm_source=api
+rulings_uri: https://api.scryfall.com/cards/9e293b2d-5eae-43c3-bb1f-4c0ed2b0bd21/rulings
+prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3Acafacba9-195c-44ea-ba80-3e489274759c&unique=prints
+collector_number: 96★
+digital: false
+rarity: mythic
+watermark: phyrexian
+card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+artist: Steve Argyle
+artist_ids:
+- a44ddda4-5331-4f83-aac9-3e00ed36bd7b
+illustration_id: f0442fe9-b828-4600-87d7-876d7ed1fcf0
+border_color: black
+frame: '2003'
+full_art: false
+textless: false
+booster: false
+story_spotlight: false
+promo_types:
+- setpromo
+- datestamped
+- prerelease
+edhrec_rank: 6256
+penny_rank: 3454
+prices:
+  usd: 
+  usd_foil: '2.57'
+  usd_etched: 
+  eur: 
+  eur_foil: '1.00'
+  tix: 
+related_uris:
+  tcgplayer_infinite_articles: https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Glissa%2C+the+Traitor&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  tcgplayer_infinite_decks: https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Glissa%2C+the+Traitor&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  edhrec: https://edhrec.com/route/?cc=Glissa%2C+the+Traitor
+purchase_uris:
+  tcgplayer: https://www.tcgplayer.com/product/48141?page=1&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Glissa%2C+the+Traitor&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+  cardhoarder: https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Glissa%2C+the+Traitor&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall
